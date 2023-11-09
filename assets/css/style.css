@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(../img/about-daniel-img.jpg) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(github.com/vice1226/simplesite/blob/main/assets/img/plane.jpeg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
